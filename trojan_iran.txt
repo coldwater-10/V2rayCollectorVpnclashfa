@@ -1,3 +1,6 @@
+trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 93
+trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com&alpn=h2%2Chttp%2F1.1&fp=random#@vpnclashfa - 92
+trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 91
 trojan://telegram-id-privatevpns@54.74.213.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 90
 trojan://telegram-id-privatevpns@54.73.143.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 89
 trojan://telegram-id-privatevpns@54.229.77.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 88
@@ -57,12 +60,12 @@ trojan://telegram-id-privatevpns@18.135.92.243:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.135.218.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 34
 trojan://telegram-id-privatevpns@18.135.147.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 33
 trojan://telegram-id-privatevpns@18.134.58.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 32
-trojan://telegram-id-privatevpns@18.134.183.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 31
-trojan://telegram-id-privatevpns@18.132.155.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 30
-trojan://telegram-id-privatevpns@16.171.119.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 29
-trojan://telegram-id-privatevpns@16.16.145.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 28
-trojan://telegram-id-privatevpns@15.237.157.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 27
-trojan://telegram-id-privatevpns@15.236.47.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 26
+trojan://telegram-id-privatevpns@18.132.155.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 31
+trojan://telegram-id-privatevpns@16.171.119.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 30
+trojan://telegram-id-privatevpns@16.16.145.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 29
+trojan://telegram-id-privatevpns@15.237.157.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 28
+trojan://telegram-id-privatevpns@15.236.47.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 27
+trojan://telegram-id-privatevpns@15.236.0.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 26
 trojan://telegram-id-privatevpns@15.188.117.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 25
 trojan://telegram-id-privatevpns@13.60.146.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 24
 trojan://telegram-id-privatevpns@13.60.141.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 23

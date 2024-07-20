@@ -1,7 +1,6 @@
-ss://ZjdiOGMzNjktNmVjMC00ZjhmLWIwZjItOTZjYmJiMTNlNTQ1Og==@www.speedtest.net:443#@vpnclashfa - 31
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.67.158.238:443#@vpnclashfa - 30
-ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@162.159.133.164:443#@vpnclashfa - 29
-ss://YjgzODBlOWUtZmQzNi00Zjk4LTk2ZWItZDJiNTM3N2M2OWMyOg==@104.18.27.94:80#@vpnclashfa - 28
+ss://ZjdiOGMzNjktNmVjMC00ZjhmLWIwZjItOTZjYmJiMTNlNTQ1Og==@www.speedtest.net:443#@vpnclashfa - 30
+ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.67.158.238:443#@vpnclashfa - 29
+ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@162.159.133.164:443#@vpnclashfa - 28
 ss://YWVzLTI1Ni1nY206clB5K1ZYRkhtZGhNUFBHM0pqbFllL0lHRGtVWnVoU2JiVm9GeW80TERpWT0=@138.201.186.253:80#@vpnclashfa - 27
 ss://YWVzLTI1Ni1nY206clB5K1ZYRkhtZGhNUFBHM0pqbFllL0lHRGtVWnVoU2JiVm9GeW80TERpWT0=@128.140.124.18:80#@vpnclashfa - 26
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.86.135.36:443#@vpnclashfa - 25
@@ -27,5 +26,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnclashfa - 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#@vpnclashfa - 4
 ss://NzY0MzQ3NDMtMmE5NC00Y2ZkLTgxNzAtOGUzOTcxNDE5YjM2Og==@pardazeshvpn-tg85.pages.dev:443#@vpnclashfa - 3
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.28.44:80#@vpnclashfa - 2
-ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:2096#@vpnclashfa - 1
+ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:2096#@vpnclashfa - 2
+ss://MWE5NDc0N2ItODkwMS00ODEyLWJhMjMtN2ViNDRjYzExNjJmOg==@104.21.16.33:443#@vpnclashfa - 1

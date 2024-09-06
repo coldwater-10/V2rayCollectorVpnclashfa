@@ -95,10 +95,10 @@ trojan://telegram-id-privatevpns@13.36.42.174:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.36.161.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 15
 trojan://telegram-id-privatevpns@13.36.124.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 14
 trojan://telegram-id-privatevpns@108.129.58.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 13
-trojan://telegram-id-directvpn@51.21.67.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 12
-trojan://telegram-id-directvpn@35.158.185.205:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 11
-trojan://telegram-id-directvpn@18.134.213.122:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 10
-trojan://telegram-id-directvpn@13.36.104.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 9
+trojan://telegram-id-directvpn@35.158.185.205:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 12
+trojan://telegram-id-directvpn@18.134.213.122:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 11
+trojan://telegram-id-directvpn@13.36.104.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 10
+trojan://cassiusvpn@104.17.148.22:2087?security=tls&sni=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev&type=ws&host=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev&path=%2F%3Fed%3D2560#@vpnclashfa - 9
 trojan://cassiusvpn@104.17.147.22:2087?security=tls&sni=telegram----cassiusvpn----1465456489741231221154648949456456456.bongo40.workers.dev&type=ws&host=telegram----cassiusvpn----1465456489741231221154648949456456456.bongo40.workers.dev&path=%2F%3Fed%3D2560#@vpnclashfa - 8
 trojan://caacabb-baca-aacb-bcad-ccaacababbbc@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 7
 trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#@vpnclashfa - 6

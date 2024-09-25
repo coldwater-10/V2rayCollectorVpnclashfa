@@ -1,4 +1,3 @@
-trojan://tg-dns68@162.159.153.233:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#@vpnclashfa - 137
 trojan://telegram-id-privatevpns@99.80.87.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 136
 trojan://telegram-id-privatevpns@63.32.244.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 135
 trojan://telegram-id-privatevpns@54.247.64.139:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#@vpnclashfa - 134

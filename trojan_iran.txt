@@ -115,7 +115,7 @@ trojan://XslctYye3P@95.216.243.26:110?security=tls&headerType=none&type=tcp&sni=
 trojan://BXE9notY@nice-jp01.tiktokcdn.buzz:443?allowInsecure=1#@vpnclashfa - 12
 trojan://95b@aliyun.2096.us.kg:443?allowInsecure=1&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&ws=1&wspath=%2Ftrojan-6qo.pages.dev%2F%3Fed%3D2560%3Fed%3D2560#@vpnclashfa - 11
 trojan://95b@211.107.201.14:25001?allowInsecure=0&sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com&ws=1&wspath=%2Ftrojan-6qo.pages.dev%2F%3Fed%3D2560%3Fed%3D2560#@vpnclashfa - 10
-trojan://8d2d5953-d649-4034-94f2-72f2df2623da@jgwdb3.gaox.ml:443?allowInsecure=1&sni=jgwdb3.gaox.ml#@vpnclashfa - 9
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443?allowInsecure=0#@vpnclashfa - 9
 trojan://700f759e-6ecb-4632-861c-2c88b1ffc6c4@trasg1.bitznet.one:32007?allowInsecure=1&sni=cert.bitbyte.one#@vpnclashfa - 8
 trojan://700f759e-6ecb-4632-861c-2c88b1ffc6c4@trahk1.bitznet.one:32443?allowInsecure=1&sni=cert.bitbyte.one#@vpnclashfa - 7
 trojan://3672449442956713984@maximum-oyster.mite885.beauty:443?allowInsecure=0#@vpnclashfa - 6

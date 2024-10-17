@@ -107,8 +107,8 @@ trojan://telegram-id-privatevpns@13.36.87.53:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@108.128.66.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 36
 trojan://telegram-id-directvpn@51.21.32.103:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 35
 trojan://telegram-id-directvpn@35.158.165.81:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@vpnclashfa - 34
-trojan://telegram-id-directvpn@3.142.177.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 33
-trojan://telegram-id-directvpn@18.222.16.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 32
+trojan://telegram-id-directvpn@3.98.66.226:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 33
+trojan://telegram-id-directvpn@3.142.177.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 32
 trojan://telegram-id-directvpn@18.185.225.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 31
 trojan://telegram-id-directvpn@18.169.24.238:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 30
 trojan://telegram-id-directvpn@13.49.188.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 29
@@ -124,11 +124,11 @@ trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-2
 trojan://bpb-trojan@172.67.209.80:443?allowInsecure=0&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev&ws=1&wspath=%2FtrHs32TkLnOBacvIv4%3Fed%3D2560#@vpnclashfa - 19
 trojan://bpb-trojan@104.17.147.22:2053?security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http%2F1.1#@vpnclashfa - 18
 trojan://bcbaaac-baac-caba-cbda-bbccabaccaab@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 17
-trojan://bbacaca-abca-abca-acdb-ccbcbabaaacb@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 16
-trojan://b98aec40-e52c-4e26-87d5-c406fe342dd7@151.101.66.228:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&type=ws&host=example.ir#@vpnclashfa - 15
-trojan://acacabb-acab-aacb-bdac-cbaabaabcbcc@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 14
-trojan://acabbac-abca-acba-bcda-ccbbbcaaabca@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 13
-trojan://aabcbac-abac-aabc-dcab-bccbbabaccaa@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 12
+trojan://bbacaca-acba-caba-bcad-bbaacacabccb@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 16
+trojan://bbacaca-abca-abca-acdb-ccbcbabaaacb@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 15
+trojan://b98aec40-e52c-4e26-87d5-c406fe342dd7@151.101.66.228:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&type=ws&host=example.ir#@vpnclashfa - 14
+trojan://acacabb-acab-aacb-bdac-cbaabaabcbcc@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 13
+trojan://acabbac-abca-acba-bcda-ccbbbcaaabca@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 12
 trojan://Y4O3x7D8RSepyNXDA8ZOZEaKB3F9Y35Ca3TpuxlR6aCAeygSDl0IwcjCz2nSqF@training.freetrade.link:18333?security=tls&headerType=none&type=tcp&sni=training.freetrade.link#@vpnclashfa - 11
 trojan://SF8D9jAzN0ScwCB5llEAFIpxxneaOZyCTa3qa23D8ypKSgORRXu76Y3YeDZ4C3@154.31.112.215:28346?security=tls&sni=okelvv.superpokemon.com&type=tcp#@vpnclashfa - 10
 trojan://Nn7D3pZ0RDISZlC6ayayFCl3A9ReSOS25wCB84AxOX8a3gEzTuFY3YDKexqcpj@154.17.20.96:443?security=tls&sni=playful.missionsec.io&type=tcp#@vpnclashfa - 9
@@ -137,6 +137,6 @@ trojan://NISHIKUITAN222@141.147.190.128:443?allowInsecure=1&ws=1&wspath=%2F#@vpn
 trojan://Bia-Daily-Configs@104.17.97.5:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40@vpnclashfa - 6
 trojan://AlXz60wCelxpngS37q5ZFFOC3ESARRDNaB4yp2ZxTYCD8eOI3cyD8au9SjaK3Y@154.31.114.174:28334?security=tls&sni=nagoya.meijireform.com&type=tcp#@vpnclashfa - 5
 trojan://ASRpD3DYlZTNagqjxKS2BcF39y3y8DO30e85zCZXaCau6EO7RwxF4YAIenplSC@tobster.freetrade.link:28343?security=tls&headerType=none&type=tcp&sni=tobster.freetrade.link#@vpnclashfa - 4
-trojan://8cf00cd0-8c01-11ef-8938-1239d0255272@104.17.148.22:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#@vpnclashfa - 3
-trojan://8DAzZXOSwYcDlgOej2lC3AYypa30F4pxnqCSEZKR7yD3Sx89RuNa6aCBeFT35I@154.17.17.123:28332?security=tls&sni=penguin.missionsec.io&type=tcp#@vpnclashfa - 2
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@bs1.loadingip.com:443?allowInsecure=0#@vpnclashfa - 3
+trojan://8cf00cd0-8c01-11ef-8938-1239d0255272@104.17.148.22:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#@vpnclashfa - 2
 trojan://3672449442956713984@champion-dog.lab300.lat:443?security=tls&headerType=none&type=tcp&sni=champion-dog.lab300.lat#@vpnclashfa - 1

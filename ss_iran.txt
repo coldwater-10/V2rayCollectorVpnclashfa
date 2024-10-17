@@ -1,8 +1,7 @@
-ss://bm9uZTpjYmFhYWJjLWFhY2ItYWFjYi1iY2FkLWJjYWFjYmJjY2FhYg==@127.0.0.1:1080#@vpnclashfa - 39
-ss://bm9uZTpjYmFhY2JhLWJhYWMtYmFjYS1iYWNkLWFhYmNiY2NiY2FhYg==@127.0.0.1:1080#@vpnclashfa - 38
-ss://bm9uZTpjYWFhYmJjLWNhYmEtY2JhYS1hZGNiLWJiYWFjY2JhY2JjYQ==@127.0.0.1:1080#@vpnclashfa - 37
-ss://bm9uZTpiYmFjYWFjLWJjYWEtYmNhYS1hY2JkLWJjYWFiYWJjYWNjYg==@127.0.0.1:1080#@vpnclashfa - 36
-ss://bm9uZTphYmFjYmFjLWFhYmMtYmFhYy1iYWNkLWJjYWJiYWFjYWNjYg==@127.0.0.1:1080#@vpnclashfa - 35
+ss://bm9uZTpjYmFhYWJjLWFhY2ItYWFjYi1iY2FkLWJjYWFjYmJjY2FhYg==@127.0.0.1:1080#@vpnclashfa - 38
+ss://bm9uZTpjYmFhY2JhLWJhYWMtYmFjYS1iYWNkLWFhYmNiY2NiY2FhYg==@127.0.0.1:1080#@vpnclashfa - 37
+ss://bm9uZTpjYWFhYmJjLWNhYmEtY2JhYS1hZGNiLWJiYWFjY2JhY2JjYQ==@127.0.0.1:1080#@vpnclashfa - 36
+ss://bm9uZTpiYmFjYWFjLWJjYWEtYmNhYS1hY2JkLWJjYWFiYWJjYWNjYg==@127.0.0.1:1080#@vpnclashfa - 35
 ss://bm9uZTphYmFjYWJjLWFjYWItY2FiYS1iZGFjLWFiYWJhYmFjY2JjYw==@127.0.0.1:1080#@vpnclashfa - 34
 ss://bm9uZTphYmFjY2JhLWFiY2EtYWJhYy1iY2RhLWFjYWJhY2NhYmJiYw==@127.0.0.1:1080#@vpnclashfa - 33
 ss://bm9uZTphYWNiYmNhLWNhYWItYWJjYS1kYWNiLWJiYWNjYWNiYWFiYw==@127.0.0.1:1080#@vpnclashfa - 32

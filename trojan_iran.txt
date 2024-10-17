@@ -1,3 +1,6 @@
+trojan://x2uDYA5XgC87FaeCnR9SFNEZc8SDwp3p0z4yRCj33IZBYxeayaDlTlO6Sq3OAK@154.21.86.20:28334?security=tls&sni=testify.missionsec.io&type=tcp#@vpnclashfa - 136
+trojan://tg-dns68@162.159.153.219:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#@vpnclashfa - 135
+trojan://tg-dns68@162.159.152.228:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#@vpnclashfa - 134
 trojan://telegram-id-privatevpns@54.76.235.234:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 133
 trojan://telegram-id-privatevpns@54.76.235.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 132
 trojan://telegram-id-privatevpns@54.74.133.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 131
@@ -112,9 +115,9 @@ trojan://telegram-id-directvpn@13.39.147.203:22222?security=tls&sni=trojan.burge
 trojan://laNA8DwSX3CuqSaOy6ReFl4SCZ8FyKcx79TYApR5neDBZ2jxOaIg03zYCD3E3p@154.31.114.13:28332?security=tls&sni=thick.superpokemon.com&type=tcp#@vpnclashfa - 22
 trojan://cabbaca-abca-aabc-bdca-bcacaababccb@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 21
 trojan://caabacb-acba-baca-dcba-babbbcaaaccc@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 20
-trojan://caaabbc-caba-cbaa-adcb-bbaaccbacbca@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 19
-trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrLb1imnrxPEhfzfwk%3Fed&fp=randomized&alpn=h2,http/1.1#@vpnclashfa - 18
-trojan://bpb-trojan@104.17.147.22:2053?security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http%2F1.1#@vpnclashfa - 17
+trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrLb1imnrxPEhfzfwk%3Fed&fp=randomized&alpn=h2,http/1.1#@vpnclashfa - 19
+trojan://bpb-trojan@104.17.147.22:2053?security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http%2F1.1#@vpnclashfa - 18
+trojan://bcbaaac-baac-caba-cbda-bbccabaccaab@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 17
 trojan://bbacaca-acba-caba-bcad-bbaacacabccb@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 16
 trojan://bbacaca-abca-abca-acdb-ccbcbabaaacb@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 15
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@20.2.33.230:443?allowInsecure=0#@vpnclashfa - 14
@@ -124,9 +127,9 @@ trojan://acaabbc-abac-acba-cbda-ccbbabaacabc@127.0.0.1:8080?security=tls&type=tc
 trojan://aacacbb-baac-aabc-cbad-abbabacaccbc@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 10
 trojan://aabcbac-abac-aabc-dcab-bccbbabaccaa@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 9
 trojan://Tel-DailyConfigs@104.18.7.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40@vpnclashfa - 8
-trojan://Tel-DailyConfigs@104.18.6.21:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40@vpnclashfa - 7
-trojan://SF8D9jAzN0ScwCB5llEAFIpxxneaOZyCTa3qa23D8ypKSgORRXu76Y3YeDZ4C3@154.31.112.215:28346?security=tls&sni=okelvv.superpokemon.com&type=tcp#@vpnclashfa - 6
-trojan://Nn7D3pZ0RDISZlC6ayayFCl3A9ReSOS25wCB84AxOX8a3gEzTuFY3YDKexqcpj@154.17.20.96:443?security=tls&sni=playful.missionsec.io&type=tcp#@vpnclashfa - 5
+trojan://SF8D9jAzN0ScwCB5llEAFIpxxneaOZyCTa3qa23D8ypKSgORRXu76Y3YeDZ4C3@154.31.112.215:28346?security=tls&sni=okelvv.superpokemon.com&type=tcp#@vpnclashfa - 7
+trojan://Nn7D3pZ0RDISZlC6ayayFCl3A9ReSOS25wCB84AxOX8a3gEzTuFY3YDKexqcpj@154.17.20.96:443?security=tls&sni=playful.missionsec.io&type=tcp#@vpnclashfa - 6
+trojan://AlXz60wCelxpngS37q5ZFFOC3ESARRDNaB4yp2ZxTYCD8eOI3cyD8au9SjaK3Y@154.31.114.174:28334?security=tls&sni=nagoya.meijireform.com&type=tcp#@vpnclashfa - 5
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@61.220.126.180:443?security=tls&sni=twnode11.oportal.cc&type=tcp#@vpnclashfa - 4
 trojan://8cf00cd0-8c01-11ef-8938-1239d0255272@104.17.148.22:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#@vpnclashfa - 3
 trojan://8DAzZXOSwYcDlgOej2lC3AYypa30F4pxnqCSEZKR7yD3Sx89RuNa6aCBeFT35I@154.17.17.123:28332?security=tls&sni=penguin.missionsec.io&type=tcp#@vpnclashfa - 2

@@ -1,6 +1,7 @@
-ss://bm9uZTpiYWFjYWNiLWJhY2EtYWJjYS1kY2FiLWJjY2JiY2FjYWFiYQ==@127.0.0.1:8080#@vpnclashfa - 51
-ss://bm9uZTpiY2JhYWFjLWFhYmMtYmFjYS1iZGFjLWNhYWNiYmJhYmFjYw==@127.0.0.1:1080#@vpnclashfa - 50
-ss://bm9uZTphYmNjYWFiLWFhYmMtY2FhYi1iYWNkLWFiY2FjYWNiYmJjYQ==@127.0.0.1:1080#@vpnclashfa - 49
+ss://bm9uZTpiYWFjYWNiLWJhY2EtYWJjYS1kY2FiLWJjY2JiY2FjYWFiYQ==@127.0.0.1:8080#@vpnclashfa - 52
+ss://bm9uZTpiY2JhYWFjLWFhYmMtYmFjYS1iZGFjLWNhYWNiYmJhYmFjYw==@127.0.0.1:1080#@vpnclashfa - 51
+ss://bm9uZTphYmNjYWFiLWFhYmMtY2FhYi1iYWNkLWFiY2FjYWNiYmJjYQ==@127.0.0.1:1080#@vpnclashfa - 50
+ss://bm9uZTphYWNjYmFiLWNhYWItYmNhYS1kYmFjLWFjYmJiY2FiY2FjYQ==@127.0.0.1:8080#@vpnclashfa - 49
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#@vpnclashfa - 48
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.92.110:5498#@vpnclashfa - 47
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#@vpnclashfa - 46

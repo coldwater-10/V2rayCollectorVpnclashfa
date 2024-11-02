@@ -1,7 +1,8 @@
-ss://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=www.speedtest.net.3.Q.mehpow.iR.&type=ws#@vpnclashfa - 83
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@47.129.244.12:443#@vpnclashfa - 82
-ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2YzJoaFpHOTNjMjlqYTNN@149.22.87.240:443#@vpnclashfa - 81
-ss://bm9uZTpjYmJjYWFhLWFiYWMtYWFjYi1kYWJjLWFjYmNhYmNjYWJiYQ==@127.0.0.1:8080#@vpnclashfa - 80
+ss://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=www.speedtest.net.3.Q.mehpow.iR.&type=ws#@vpnclashfa - 84
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@47.129.244.12:443#@vpnclashfa - 83
+ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2YzJoaFpHOTNjMjlqYTNN@149.22.87.240:443#@vpnclashfa - 82
+ss://bm9uZTpjYmJjYWFhLWFiYWMtYWFjYi1kYWJjLWFjYmNhYmNjYWJiYQ==@127.0.0.1:8080#@vpnclashfa - 81
+ss://bm9uZTpjYmFjYWJhLWNhYmEtY2JhYS1jYmRhLWFjY2JiY2NhYmFiYQ==@127.0.0.1:1080#@vpnclashfa - 80
 ss://bm9uZTpjYmFhY2JhLWFjYWItY2JhYS1iYWRjLWFjYWJiYWNjY2JiYQ==@127.0.0.1:8080#@vpnclashfa - 79
 ss://bm9uZTpjYWJhYmFjLWFiYWMtY2FhYi1jZGJhLWJiY2FhYWJjY2JhYw==@127.0.0.1:1080#@vpnclashfa - 78
 ss://bm9uZTpjYWFhYmJjLWNiYWEtYWNhYi1hYmNkLWFjYmFjY2NhYWJiYg==@127.0.0.1:8080#@vpnclashfa - 77
@@ -9,8 +10,8 @@ ss://bm9uZTpiYWJjY2FhLWFiY2EtY2FhYi1iYWNkLWFhYWNjY2JiYmJhYw==@127.0.0.1:1080#@vp
 ss://bm9uZTpiYWFjYmNhLWFjYWItY2FiYS1kYmFjLWFiYWNiYWNhYmJjYw==@127.0.0.1:8080#@vpnclashfa - 75
 ss://bm9uZTpiY2NhYmFhLWFjYWItYWJhYy1jZGFiLWNjYmFhYWNjYmFiYg==@127.0.0.1:1080#@vpnclashfa - 74
 ss://bm9uZTpiY2FhYmFjLWNiYWEtY2FhYi1jYmFkLWFhYmNiY2JjYmFhYw==@127.0.0.1:1080#@vpnclashfa - 73
-ss://bm9uZTphYmJjYWFjLWNiYWEtYmFhYy1jYmFkLWFiYmJjY2NhYmFhYw==@127.0.0.1:8080#@vpnclashfa - 72
-ss://bm9uZTphYmFjY2JhLWFiY2EtYWNiYS1hY2JkLWFjY2JhYWNhYmNiYg==@127.0.0.1:1080#@vpnclashfa - 71
+ss://bm9uZTphYmNhY2JhLWFhYmMtYWNhYi1jZGFiLWJiY2JjYmNhYWFhYw==@127.0.0.1:1080#@vpnclashfa - 72
+ss://bm9uZTphYmJjYWFjLWNiYWEtYmFhYy1jYmFkLWFiYmJjY2NhYmFhYw==@127.0.0.1:8080#@vpnclashfa - 71
 ss://bm9uZTphYWJiY2FjLWNhYmEtY2JhYS1hY2RiLWJiY2NhY2NhYmFiYQ==@127.0.0.1:8080#@vpnclashfa - 70
 ss://bm9uZTphY2NiYWFiLWFiY2EtYmFjYS1hY2RiLWNjYmNhYWFiYmFiYw==@127.0.0.1:8080#@vpnclashfa - 69
 ss://bm9uZTphY2JhYWJjLWNiYWEtYmFjYS1jZGJhLWJjYmFhY2FjY2FiYg==@127.0.0.1:8080#@vpnclashfa - 68

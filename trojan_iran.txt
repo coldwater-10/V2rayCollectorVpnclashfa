@@ -100,11 +100,11 @@ trojan://telegram-id-privatevpns@13.48.168.158:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.39.209.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 47
 trojan://telegram-id-privatevpns@13.39.181.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 46
 trojan://telegram-id-privatevpns@13.39.177.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 45
-trojan://telegram-id-privatevpns@13.39.169.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 44
-trojan://telegram-id-privatevpns@13.36.148.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 43
-trojan://telegram-id-privatevpns@13.36.128.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 42
-trojan://telegram-id-privatevpns@13.36.128.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 41
-trojan://telegram-id-directvpn@54.170.57.114:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 40
+trojan://telegram-id-privatevpns@13.39.177.240:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@vpnclashfa - 44
+trojan://telegram-id-privatevpns@13.39.169.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 43
+trojan://telegram-id-privatevpns@13.36.148.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 42
+trojan://telegram-id-privatevpns@13.36.128.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 41
+trojan://telegram-id-privatevpns@13.36.128.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 40
 trojan://telegram-id-directvpn@44.198.107.80:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@vpnclashfa - 39
 trojan://telegram-id-directvpn@34.247.14.168:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#@vpnclashfa - 38
 trojan://telegram-id-directvpn@18.171.132.240:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@vpnclashfa - 37
@@ -133,8 +133,8 @@ trojan://NISHIKUITAN222@190.93.245.210:443?security=tls&sni=ik.ylks.xyz&type=ws&
 trojan://NISHIKUITAN222@190.93.244.42:443?allowInsecure=0&sni=ik.ylks.xyz&ws=1&wspath=%2F#@vpnclashfa - 14
 trojan://NISHIKUITAN222@188.114.96.11:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F#@vpnclashfa - 13
 trojan://NISHIKUITAN222@173.245.59.6:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F#@vpnclashfa - 12
-trojan://NISHIKUITAN222@173.245.59.253:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F#@vpnclashfa - 11
-trojan://NISHIKUITAN222@173.245.58.4:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F#@vpnclashfa - 10
+trojan://NISHIKUITAN222@173.245.58.4:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F#@vpnclashfa - 11
+trojan://NISHIKUITAN222@173.245.49.201:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F#@vpnclashfa - 10
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@vpnclashfa - 9
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@bs1.loadingip.com:443?allowInsecure=1&sni=bs1.loadingip.com#@vpnclashfa - 8
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@vpnclashfa - 7

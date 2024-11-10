@@ -121,8 +121,8 @@ trojan://auto@104.20.20.213:443?allowInsecure=0&sni=b96ef9ae.trojanfree-76s.page
 trojan://auto@104.20.20.160:443?allowInsecure=0&sni=b96ef9ae.trojanfree-76s.pages.dev&ws=1&wspath=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#@vpnclashfa - 18
 trojan://auto@104.20.18.192:443?allowInsecure=0&sni=b96ef9ae.trojanfree-76s.pages.dev&ws=1&wspath=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#@vpnclashfa - 17
 trojan://abbccaa-caba-abac-cbda-bbbaacacacbc@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 16
-trojan://WOeXShhJpL@104.18.69.204:443?security=tls&sni=01jzus.zdzdzd.xyz&type=ws&host=01jzus.zdzdzd.xyz&path=%2Fjuzigongyi#@vpnclashfa - 15
-trojan://NISHIKUITAN222@198.41.192.94:443?allowInsecure=0&sni=ik.ylks.xyz&ws=1&wspath=%2F#@vpnclashfa - 14
+trojan://WOeXShhJpL@104.21.37.37:443?security=tls&sni=01jzus.zdzdzd.xyz&type=ws&host=01jzus.zdzdzd.xyz&path=%2Fjuzigongyi#@vpnclashfa - 15
+trojan://WOeXShhJpL@104.18.69.204:443?security=tls&sni=01jzus.zdzdzd.xyz&type=ws&host=01jzus.zdzdzd.xyz&path=%2Fjuzigongyi#@vpnclashfa - 14
 trojan://NISHIKUITAN222@190.93.245.210:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F#@vpnclashfa - 13
 trojan://NISHIKUITAN222@190.93.244.42:443?allowInsecure=0&sni=ik.ylks.xyz&ws=1&wspath=%2F#@vpnclashfa - 12
 trojan://NISHIKUITAN222@188.114.96.11:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F#@vpnclashfa - 11

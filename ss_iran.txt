@@ -5,9 +5,9 @@ ss://bm9uZTpjYmFiYWNhLWFiY2EtYWJhYy1jYWJkLWNjYWNiYmJhYWJjYQ==@127.0.0.1:8080#@vp
 ss://bm9uZTpjYmFhYmFjLWFjYmEtYmFjYS1iZGFjLWFjYmJhYWNiYWNjYg==@127.0.0.1:1080#@vpnclashfa - 69
 ss://bm9uZTpiYmNhY2FhLWJhYWMtYWFjYi1hZGJjLWFiYWJhYmNiYWNjYw==@127.0.0.1:8080#@vpnclashfa - 68
 ss://bm9uZTpiYWNiYWNhLWFiYWMtYmFhYy1jYWRiLWFjYmJhYWNjYmJjYQ==@127.0.0.1:8080#@vpnclashfa - 67
-ss://bm9uZTpiYWFiY2NhLWFhY2ItYmNhYS1jYmRhLWJjYWNjYmJhYmNhYQ==@127.0.0.1:8080#@vpnclashfa - 66
-ss://bm9uZTpiY2FhYmNhLWFhYmMtY2FiYS1kY2FiLWNhY2JhYmFhY2NiYg==@127.0.0.1:8080#@vpnclashfa - 65
-ss://bm9uZTphYWNjYmJhLWJjYWEtYmFhYy1iZGFjLWJiY2JhYmFjY2FhYw==@127.0.0.1:1080#@vpnclashfa - 64
+ss://bm9uZTpiY2FhYmNhLWFhYmMtY2FiYS1kY2FiLWNhY2JhYmFhY2NiYg==@127.0.0.1:8080#@vpnclashfa - 66
+ss://bm9uZTphYWNjYmJhLWJjYWEtYmFhYy1iZGFjLWJiY2JhYmFjY2FhYw==@127.0.0.1:1080#@vpnclashfa - 65
+ss://bm9uZTphY2JjYWFiLWNhYmEtY2JhYS1iYWNkLWFiYmJhYWNiY2NjYQ==@127.0.0.1:1080#@vpnclashfa - 64
 ss://bm9uZTphY2FjYmFiLWFhY2ItYWFjYi1iYWRjLWNjYmNiYWFiYmFhYw==@127.0.0.1:1080#@vpnclashfa - 63
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#@vpnclashfa - 62
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.150.152.16:443#@vpnclashfa - 61

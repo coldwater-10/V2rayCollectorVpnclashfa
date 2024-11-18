@@ -60,8 +60,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1YTBINjM5d1NsUXJLVzdZTTNMaHZm@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnclashfa - 14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@vpnclashfa - 13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Z1BINlNrQ09lR2lYVjI4OTY0d3dh@91.103.253.151:19057#@vpnclashfa - 12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUkg3MWlxc1N0dTRIQVhacXdMWVp1@147.45.124.227:30488#@vpnclashfa - 11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE@soonth.soon.guru:40009#@vpnclashfa - 10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#@vpnclashfa - 11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUkg3MWlxc1N0dTRIQVhacXdMWVp1@147.45.124.227:30488#@vpnclashfa - 10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE=@soonpr.soon.guru:40030#@vpnclashfa - 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#@vpnclashfa - 8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#@vpnclashfa - 7

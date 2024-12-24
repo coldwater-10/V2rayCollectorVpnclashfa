@@ -1,5 +1,4 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.53.169:8080#@vpnclashfa - 88
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@51.158.244.38:8080#@vpnclashfa - 87
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.53.169:8080#@vpnclashfa - 87
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#@vpnclashfa - 86
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@194.5.215.59:8080#@vpnclashfa - 85
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#@vpnclashfa - 84

@@ -1,5 +1,7 @@
-ss://dc46fe5d-970f-4ae7-a467-6d24109cd60e@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#@vpnclashfa - 76
-ss://d3d8f3ab-ee99-4eb9-ae06-00d3cc7d3c29@104.21.75.179:443?security=tls&sni=5a25FE5b-cRIMSON-SceNE-1A5D.mWSWYNZHaDSyDMHmD241.WORkers.deV&type=ws&host=5a25fe5b-crimson-scene-1a5d.mwswynzhadsydmhmd241.workers.dev&path=%2FMvACjZruYzOBKO6B%2FMTI5LjE1MS4yMDQuOTE%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@vpnclashfa - 75
+ss://dc46fe5d-970f-4ae7-a467-6d24109cd60e@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#@vpnclashfa - 78
+ss://d3d8f3ab-ee99-4eb9-ae06-00d3cc7d3c29@104.21.75.179:443?security=tls&sni=5a25FE5b-cRIMSON-SceNE-1A5D.mWSWYNZHaDSyDMHmD241.WORkers.deV&type=ws&host=5a25fe5b-crimson-scene-1a5d.mwswynzhadsydmhmd241.workers.dev&path=%2FMvACjZruYzOBKO6B%2FMTI5LjE1MS4yMDQuOTE%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@vpnclashfa - 77
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.203.243.93:443#@vpnclashfa - 76
+ss://b4e7d076-108c-4db6-94d3-cf0c99b69680@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v29.feadlenetwork19922c.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 75
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.105:443#@vpnclashfa - 74
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDU0LjM3LjE4Ljc1OjUwMDQ=#@vpnclashfa - 73
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.75.136.21:9101#@vpnclashfa - 72

@@ -120,9 +120,9 @@ trojan://3723507166611775488@rich-sturgeon.treefrog761.one:443?allowInsecure=1&s
 trojan://3723507166611775488@pumped-stingray.boa152.lol:443?allowInsecure=1&sni=pumped-stingray.boa152.lol#@vpnclashfa - 20
 trojan://3723507166611775488@proper-titmouse.boa152.lol:443?allowInsecure=1&sni=proper-titmouse.boa152.lol#@vpnclashfa - 19
 trojan://3723507166611775488@profound-shiner.boa152.lol:443?allowInsecure=1&sni=profound-shiner.boa152.lol#@vpnclashfa - 18
-trojan://3723507166611775488@lucky-grouper.boa152.lol:443?allowInsecure=1&sni=lucky-grouper.boa152.lol#@vpnclashfa - 17
-trojan://3723507166611775488@fleet-weevil.boa152.lol:443?allowInsecure=0&sni=fleet-weevil.boa152.lol#@vpnclashfa - 16
-trojan://3723507166611775488@fitting-ox.boa152.lol:443?allowInsecure=1&sni=fitting-ox.boa152.lol#@vpnclashfa - 15
+trojan://3723507166611775488@pleased-slug.boa152.lol:443?allowInsecure=1&sni=pleased-slug.boa152.lol#@vpnclashfa - 17
+trojan://3723507166611775488@lucky-grouper.boa152.lol:443?allowInsecure=1&sni=lucky-grouper.boa152.lol#@vpnclashfa - 16
+trojan://3723507166611775488@fleet-weevil.boa152.lol:443?allowInsecure=0&sni=fleet-weevil.boa152.lol#@vpnclashfa - 15
 trojan://3723507166611775488@concrete-buzzard.boa152.lol:443?allowInsecure=1&sni=concrete-buzzard.boa152.lol#@vpnclashfa - 14
 trojan://3723507166611775488@allowed-primate.boa152.lol:443?allowInsecure=1&sni=allowed-primate.boa152.lol#@vpnclashfa - 13
 trojan://3723507166611775488@ace-mayfly.boa152.lol:443?allowInsecure=1&sni=ace-mayfly.boa152.lol#@vpnclashfa - 12
